@@ -1,0 +1,61 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Roboto', sans-serif;
+  padding-top:30px;
+  padding-bottom:30px;
+}
+
+p, div {
+  font-family: 'Roboto', sans-serif;
+}
+
+/*Typography*/
+h1 {
+  font-family: 'Roboto';
+}
+
+h2 {
+}
+
+h3 {
+
+}
+
+p {
+padding-bottom: 30px;
+}
+
+
+.navbar {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	background: #f1f1f1;
+}
+
+.navbar-brand {
+	padding-left: 32px;
+}
+
+.nav-item {
+	padding-left:24px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.title {
+  top:30px;
+ }
+
+.footer {
+	padding: 30px 0px;
+	background: #f1f1f1;
+	margin-top: 120px;
+}
+
+.project-card {
+	border-bottom: 3px solid #eaeaea;
+	margin-top:20px;
+}
+
