@@ -1,108 +1,118 @@
 <!DOCTYPE html>
-    <!-- Fonts -->
+<!-- Fonts -->
 
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>PAIR Code</title>
-    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
-    <!-- Bootstrap -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  <title>PAIR Code</title>
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+      <![endif]-->
 
-  </head>
-  <body>
-    <nav class="navbar navbar-toggleable-md navbar-light bg-faded fixed-top">
-      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <a class="navbar-brand" href="#banner">PAIR-Code</a>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">  
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item">
-            <a class="nav-link" href="#banner">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#projects">Projects</a>
-          </li>
-        </ul>
-      </div>
-    </nav>
-
-    <img class="banner img-fluid" src="images/PAIR_Banner.svg" alt="P+AIR" id="banner">
-
-    <div class="title container" id="about">
-      <h1 class="display-2">PAIR Code</h1>
-    </div>
-
-    <div class="subtitle container">
-      <h3>Making people + AI partnerships productive, enjoyable, and fair.</h3>
-    </div>
-
-    <div class="pair-copy container">
-      <div class="row">
-        <div col="col"></div>
-        <p class="lead col-xl-3 col-lg-3 col-md-3 col-sm-4">
-          PAIR is devoted to advancing the research and design of people-centric AI systems. 
-        </p>
-        <p class="col-xl-6 col-lg-6 col-md-6 col-sm-8"> 
-          We're interested in the full spectrum of human interaction with machine intelligence, from supporting engineers to understanding everyday experiences with AI. Our goal is to do fundamental research, invent new technology, and create frameworks for design in order to drive a humanistic approach to artificial intelligence. And we want to be as open as possible: we’re building open source tools that everyone can use, hosting public events, and supporting academics in advancing the state of the art.
-        </p>
-        <div col="col"></div>
-      </div>
-    </div>
-    <hr class="separator">
-    <div class="heading container" id="projects">
-      <h3>Projects</h3>
-    </div>
-    
-    <div class="projects container">
-      <div class="projects-cards row">
-        <div class="project-card col-lg-6 col-md-12 col-sm-12">
-          <a href="https://pair-code.github.io/saliency/" target="_blank">
-            <p class="lead lev2 col-lg-3 col-md-4 col-sm-12">SmoothGrad</p>
-          </a>
-
-          <p class="lev2 col-lg-offset-1 col-lg-8 col-md-8 col-sm-12">A new technique for improving saliency/sensitivity maps called SmoothGrad, developed by the Big Picture team. The SmoothGrad technique often significantly denoises sensitivity masks. This technique adds pixel-wise Gaussian noise to many copies of the image, and simply averages the resulting gradients.</p>
-
-          <p class="lev2 link-set col-lg-offset-1 col-lg-8 col-md-8 col-sm-12"><a href="https://pair-code.github.io/saliency/" target="blank_">Demo Page</a>&emsp;<a href="https://github.com/PAIR-code/saliency" target="blank_">Github Repository</a>&emsp;<a href="https://arxiv.org/abs/1706.03825" target="blank_">Paper</a></p>
-
+    </head>
+    <body>
+      <nav class="navbar navbar-toggleable-md navbar-light bg-faded fixed-top">
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <a class="navbar-brand" href="#banner">PAIR-Code</a>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">  
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="#banner">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#projects">Projects</a>
+            </li>
+          </ul>
         </div>
+      </nav>
 
-        <div class="project-card col-lg-6 col-md-12 col-sm-12">
-          <a href="https://pair-code.github.io/facets/" target="_blank">
-            <p class="lead lev2 col-lg-3 col-md-4 col-sm-12">Facets</p>
-          </a>
+      <img class="banner img-fluid" src="images/PAIR_Banner.svg" alt="P+AIR" id="banner">
 
-          <p class="lev2 col-lg-offset-1 col-lg-8 col-md-8 col-sm-12">Facets contains two robust visualizations to aid in understanding and analyzing machine learning datasets, to help researchers build better and more powerful machine learning systems. Get a sense of the shape of each feature of your dataset using Facets Overview, or explore individual observations using Facets Dive.</p>
+      <div class="title container" id="about">
+        <h1 class="display-2">PAIR Code</h1>
+      </div>
 
-          <p class="lev2 link-set col-lg-offset-1 col-lg-8 col-md-8 col-sm-12"><a href="https://pair-code.github.io/facets/" target="blank_">Demo Page</a>&emsp;<a href="https://github.com/PAIR-code/facets">Github Repository</a></p>
+      <div class="subtitle container">
+        <h3>Making people + AI partnerships productive, enjoyable, and fair.</h3>
+      </div>
 
+      <div class="pair-copy container">
+        <div class="row">
+          <div col="col"></div>
+          <p class="lead col-xl-3 col-lg-3 col-md-3 col-sm-4">
+            PAIR is devoted to advancing the research and design of people-centric AI systems. 
+          </p>
+          <p class="col-xl-6 col-lg-6 col-md-6 col-sm-8"> 
+            We're interested in the full spectrum of human interaction with machine intelligence, from supporting engineers to understanding everyday experiences with AI. Our goal is to do fundamental research, invent new technology, and create frameworks for design in order to drive a humanistic approach to artificial intelligence. And we want to be as open as possible: we’re building open source tools that everyone can use, hosting public events, and supporting academics in advancing the state of the art.
+          </p>
+          <div col="col"></div>
         </div>
       </div>
-    </div>
-  </body>
+      <hr class="separator">
+      <div class="heading container" id="projects">
+        <h3>Projects</h3>
+      </div>
 
-  <footer class="footer">
-    <div class="container footer-lockup">
-      <div class="row">
-        <div class="col-xl-1 col-lg-2 col-md-2 col-sm-3">
-          <a href="https://www.google.com" target="blank_"><img class="banner img-fluid" src="images/googlelogo_dark_clr_68x28px.svg" alt="Google"></a>
-        </div>
-        <div class="col">
-          <p><a href="https://www.google.ai/pair" target="blank_" class="text-muted">People + AI Research Initiative</a>&emsp;
-          <a href="https://github.com/PAIR-code" target="blank_" class="text-muted">Source on Github</a></p>
+      <div class="projects container">
+        <div class="projects-cards row">
+
+          <div class="project-card col-lg-6 col-md-12 col-sm-12">
+            <a href="https://pair-code.github.io/deeplearnjs" target="_blank">
+              <p class="lead lev2 col-lg-3 col-md-4 col-sm-12">Deeplearn.js</p>
+            </a>
+
+            <p class="lev2 col-lg-offset-1 col-lg-8 col-md-8 col-sm-12">Deeplearn.js is an open-source library for hardware-accelerated machine learning on the web. Train neural nets entirely in your browser, or run pre-trained models.</p>
+            <p class="lev2 link-set col-lg-offset-1 col-lg-8 col-md-8 col-sm-12"><a href="https://pair-code.github.io/deeplearnjs" target="blank_">Demo Page</a>&emsp;<a href="https://github.com/PAIR-code/deeplearnjs" target="blank_">Github Repository</a></p>
+          </div>
+          
+          <div class="project-card col-lg-6 col-md-12 col-sm-12">
+            <a href="https://pair-code.github.io/saliency/" target="_blank">
+              <p class="lead lev2 col-lg-3 col-md-4 col-sm-12">SmoothGrad</p>
+            </a>
+
+            <p class="lev2 col-lg-offset-1 col-lg-8 col-md-8 col-sm-12">A new technique for improving saliency/sensitivity maps called SmoothGrad, developed by the Big Picture team. The SmoothGrad technique often significantly denoises sensitivity masks. This technique adds pixel-wise Gaussian noise to many copies of the image, and simply averages the resulting gradients.</p>
+
+            <p class="lev2 link-set col-lg-offset-1 col-lg-8 col-md-8 col-sm-12"><a href="https://pair-code.github.io/saliency/" target="blank_">Demo Page</a>&emsp;<a href="https://github.com/PAIR-code/saliency" target="blank_">Github Repository</a>&emsp;<a href="https://arxiv.org/abs/1706.03825" target="blank_">Paper</a></p>
+
+          </div>
+
+          <div class="project-card col-lg-6 col-md-12 col-sm-12">
+            <a href="https://pair-code.github.io/facets/" target="_blank">
+              <p class="lead lev2 col-lg-3 col-md-4 col-sm-12">Facets</p>
+            </a>
+
+            <p class="lev2 col-lg-offset-1 col-lg-8 col-md-8 col-sm-12">Facets contains two robust visualizations to aid in understanding and analyzing machine learning datasets, to help researchers build better and more powerful machine learning systems. Get a sense of the shape of each feature of your dataset using Facets Overview, or explore individual observations using Facets Dive.</p>
+
+            <p class="lev2 link-set col-lg-offset-1 col-lg-8 col-md-8 col-sm-12"><a href="https://pair-code.github.io/facets/" target="blank_">Demo Page</a>&emsp;<a href="https://github.com/PAIR-code/facets">Github Repository</a></p>
+
+          </div>
         </div>
       </div>
-    </div>
-  </footer>
-</html>
+    </body>
+
+    <footer class="footer">
+      <div class="container footer-lockup">
+        <div class="row">
+          <div class="col-xl-1 col-lg-2 col-md-2 col-sm-3">
+            <a href="https://www.google.com" target="blank_"><img class="banner img-fluid" src="images/googlelogo_dark_clr_68x28px.svg" alt="Google"></a>
+          </div>
+          <div class="col">
+            <p><a href="https://www.google.ai/pair" target="blank_" class="text-muted">People + AI Research Initiative</a>&emsp;
+              <a href="https://github.com/PAIR-code" target="blank_" class="text-muted">Source on Github</a></p>
+            </div>
+          </div>
+        </div>
+      </footer>
+      </html>
