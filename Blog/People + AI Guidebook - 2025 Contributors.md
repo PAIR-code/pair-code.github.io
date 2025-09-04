@@ -2,85 +2,85 @@
 
 ## 2025 Updates for Generative AI
 
-Mahima Pushkarna
-James Wexler
-Jonathan Caton
-Josh Lee
-Kevin Lozandier
-Roxanne Pinto
-Vanessa Milan
-Ari Alberich
-Ayça Çakmakli
-Reena Jana
-Thoka Maer
-Andrew Zaldivar
-Brett Kamita
-Carmen Villalobos
-David McGaw
-Devki Trivedi
-Elissa Lerner
-Liz Merritt
-Mark Díaz
-Michal Lahav
-Phil Wagner
-Quinn Madison
-Renee Shelby
-Rida Qadri
-Sadie Olen
-Sally Limb
-Sharoda Paul
-Shiri Sivan
-Soojin Jeong
-Suruchi Biyani
-Tanya Kraljic
-Vinita Tibdewal
-Adam Boulanger
-Ambar Murillo
-Chris Fay
-Crystal Qian
-Fernanda Viegas
-Hal Abelson
-ilteris Kaplan
-Iris Chu
-Jennifer Kim
-Jennifer Otitigbe
-Jocelyn Sy
-Joe Moran
-Laura Weidinger
-Leslie Lai
-Lora Aroyo
-Lucas Dixon
-Martin Wattenberg
-Merrie Morris
-Michael Terry
-Mina Shojaeizadeh
-Nick Matarese
-Nithum Thain
-Obinna Anya
-Patrick Barna
-Patrick Gage Kelley
-Pratheek I
-Rahul Choudhury
-Ryan Mullins
-Sabrina Scandar
-Shantanu Pai
-Tushar Kochgavay
-Xiaomai Chen
-Carston Johanssen
-Chris Butler
-Dan Littlewood
-Franc Greco
-Joscelyn Cooper
-Michelle Cohn
-Paz Perez
-Tiffany Knearen
-Ursula Lauriston
-Kylan Kester
-Gloria Hu
-Monica Mora
-Ndidi Elue
-John Chan
-Patricia Diaz
-Allison Woodruff
+- Mahima Pushkarna
+- James Wexler
+- Jonathan Caton
+- Josh Lee
+- Kevin Lozandier
+- Roxanne Pinto
+- Vanessa Milan
+- Ari Alberich
+- Ayça Çakmakli
+- Reena Jana
+- Thoka Maer
+- Andrew Zaldivar
+- Brett Kamita
+- Carmen Villalobos
+- David McGaw
+- Devki Trivedi
+- Elissa Lerner
+- Liz Merritt
+- Mark Díaz
+- Michal Lahav
+- Phil Wagner
+- Quinn Madison
+- Renee Shelby
+- Rida Qadri
+- Sadie Olen
+- Sally Limb
+- Sharoda Paul
+- Shiri Sivan
+- Soojin Jeong
+- Suruchi Biyani
+- Tanya Kraljic
+- Vinita Tibdewal
+- Adam Boulanger
+- Ambar Murillo
+- Chris Fay
+- Crystal Qian
+- Fernanda Viegas
+- Hal Abelson
+- ilteris Kaplan
+- Iris Chu
+- Jennifer Kim
+- Jennifer Otitigbe
+- Jocelyn Sy
+- Joe Moran
+- Laura Weidinger
+- Leslie Lai
+- Lora Aroyo
+- Lucas Dixon
+- Martin Wattenberg
+- Merrie Morris
+- Michael Terry
+- Mina Shojaeizadeh
+- Nick Matarese
+- Nithum Thain
+- Obinna Anya
+- Patrick Barna
+- Patrick Gage Kelley
+- Pratheek I
+- Rahul Choudhury
+- Ryan Mullins
+- Sabrina Scandar
+- Shantanu Pai
+- Tushar Kochgavay
+- Xiaomai Chen
+- Carston Johanssen
+- Chris Butler
+- Dan Littlewood
+- Franc Greco
+- Joscelyn Cooper
+- Michelle Cohn
+- Paz Perez
+- Tiffany Knearen
+- Ursula Lauriston
+- Kylan Kester
+- Gloria Hu
+- Monica Mora
+- Ndidi Elue
+- John Chan
+- Patricia Diaz
+- Allison Woodruff
 Marisa Ferrara Boston
 Praveen Paritosh
