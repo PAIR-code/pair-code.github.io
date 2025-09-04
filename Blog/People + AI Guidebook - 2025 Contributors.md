@@ -82,5 +82,5 @@
 - John Chan
 - Patricia Diaz
 - Allison Woodruff
-Marisa Ferrara Boston
-Praveen Paritosh
+- Marisa Ferrara Boston
+- Praveen Paritosh
