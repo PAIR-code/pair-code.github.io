@@ -87,3 +87,6 @@
 - Allison Woodruff
 - Marisa Ferrara Boston
 - Praveen Paritosh
+- and many others
+
+A special thank you to the Google for Startups, Google.org, and Google for Developers teams; and all the startups who gave us valuable feedback. 
