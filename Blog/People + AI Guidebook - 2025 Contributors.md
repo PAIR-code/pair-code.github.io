@@ -1,5 +1,4 @@
-# Acknowledgements
-# People + AI Guidebook 2025 Updates for Generative AI
+# Acknowledgements: People + AI Guidebook 2025 Updates for Generative AI
 
 ## Core team: 
 - Mahima Pushkarna
