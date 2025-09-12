@@ -1,18 +1,23 @@
-# People + AI Guidebook Contributors
+# Acknowledgements
+# People + AI Guidebook 2025 Updates for Generative AI
 
-## 2025 Updates for Generative AI
-
+## Core team: 
 - Mahima Pushkarna
 - James Wexler
 - Jonathan Caton
-- Josh Lee
 - Kevin Lozandier
 - Roxanne Pinto
 - Vanessa Milan
+- Josh Lee
 - Ari Alberich
+- Chris Butler
+- Dan Littlewood
+- Joscelin Cooper
 - Ayça Çakmakli
 - Reena Jana
-- Thoka Maer
+- Gloria Hu
+
+## Contributors, partners, and supporters
 - Andrew Zaldivar
 - Brett Kamita
 - Carmen Villalobos
@@ -36,11 +41,13 @@
 - Vinita Tibdewal
 - Adam Boulanger
 - Ambar Murillo
+- Caio Avelar
 - Chris Fay
 - Crystal Qian
 - Fernanda Viegas
+- Feng Shen
 - Hal Abelson
-- ilteris Kaplan
+- Ilteris Kaplan
 - Iris Chu
 - Jennifer Kim
 - Jennifer Otitigbe
@@ -67,18 +74,15 @@
 - Tushar Kochgavay
 - Xiaomai Chen
 - Carston Johanssen
-- Chris Butler
-- Dan Littlewood
 - Franc Greco
 - Joscelyn Cooper
 - Michelle Cohn
 - Paz Perez
+- Thoka Maer
 - Tiffany Knearen
 - Ursula Lauriston
 - Kylan Kester
-- Gloria Hu
 - Monica Mora
-- Ndidi Elue
 - John Chan
 - Patricia Diaz
 - Allison Woodruff
