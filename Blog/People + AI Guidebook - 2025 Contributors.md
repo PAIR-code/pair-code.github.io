@@ -1,4 +1,5 @@
-# Acknowledgements: People + AI Guidebook 2025 Updates for Generative AI
+# Acknowledgements: People + AI Guidebook 
+2025 Updates for Generative AI
 
 ## Core team: 
 Mahima Pushkarna, James Wexler, Jonathan Caton, Kevin Lozandier, Roxanne Pinto, Vanessa Milan, Josh Lee, Gloria Hu, Chris Butler, Dan Littlewood, Joscelyn Cooper, Phil Wagner.
